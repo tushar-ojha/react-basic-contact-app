@@ -1,6 +1,12 @@
-##
+## **[Go Live!](https://tushar-ojha-react-contact.netlify.app/)**
 
-## **Getting Started with Create React App**
+## **About Project:**
+ - Basic CRUD app using fundamentals of React!
+
+
+
+## Default README:
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
